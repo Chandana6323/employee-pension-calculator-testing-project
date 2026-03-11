@@ -58,4 +58,4 @@ PASS
 
 ## Author
 
-Manual Testing Project created for learning and demonstrating software testing concepts.
+Chandana P
